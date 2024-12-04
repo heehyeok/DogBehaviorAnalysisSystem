@@ -14,9 +14,6 @@ Using cutting-edge AI technologies like YOLOv8 and DeepLabCut, our system detect
 | 김호진 (Kim Hojin)    | Model Design & Development | Management Information Systems | 3rd  | 2020024050   |
 | 이찬영 (Lee Chanyeong) | Database Design & Development | Management Information Systems | 3rd  | 2020024026   |
 
-Mentor: **정규** (Jung Gyu), SK Telecom  
-Advisor: **정지훈** (Professor Jeong Jihoon)
-
 ---
 
 ## 🚀 Features
